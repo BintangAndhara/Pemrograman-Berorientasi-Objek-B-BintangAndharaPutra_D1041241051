@@ -5,4 +5,7 @@ public class BintangAndharaPutra_D1041241051_4 {
         System.out.println("Semester : 4");
         System.out.println("Prodi : Informatika");
     }
+
+//Nama : Bintang Andhara Putra
+//Nim : D1041241051
 }
